@@ -4,7 +4,7 @@ PROJECT:
 DORA's STUDY GROUP
 TEAM NAME: Killua_Devs
 TEAM Members
-1. Aryan Gupta (20205043)    (aryan-mnnit4788)
+1. Manish Singh (20206025)    (ManishBeat03)
 2. Aditya Vikram Singh(20205013)    https://github.com/God-of-Calamity
 3. Ashish Goyal (20205045)          https://github.com/ashish1141
 4. Abhinav Singh  20208006          https://github.com/asingh30020
